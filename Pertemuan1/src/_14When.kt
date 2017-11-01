@@ -1,5 +1,5 @@
 fun main(args: Array<String>) {
-    print("Masukkan Nilai : ")
+    print("Masukkan Nilai Anda : ")
     var nilai = readLine()!!.toInt()
 
     when(nilai){
